@@ -1,2 +1,2 @@
-# ADPY---Karolina
+# ADPY-Karolina
 repozytorium testowe
